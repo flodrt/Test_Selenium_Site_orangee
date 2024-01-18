@@ -1,0 +1,13 @@
+1 - Creer un dossier Nouveaudossier sur le bureau
+2- inszerer changement2.sh dedans
+3- mettre tous fichier test .py a modifier dans un dosqsier
+4 dans ce dossier click droit ouvrir vs code
+5- dans le bash , dans ce dossier , 
+6- faire la commande suivante 
+
+
+~/Desktop/Nouveaudossier/changement2.sh
+
+
+
+7- ts les fichiers sont mnt modifier 
